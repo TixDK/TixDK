@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 
-- 🔭 I’m currently working on **Pet System**
-- 🌱 I’m currently learning **SCL (Siemens PLC programming)**
 
+- 🔭 I’m currently working on **Pet System **
+- 🌱 I’m currently learning **SCL (Siemens PLC programming)**
 - 📫 How to reach me **marvin.kytner@gmail.com**
 
 <div> <a href="https://github.com/marvin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -20,4 +20,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvin&layout=compact&theme=" alt=marvin />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvin&layout=compact&theme=dark" alt=marvin />
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marvin&theme=dark" alt="marvin" /></p>
