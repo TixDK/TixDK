@@ -19,7 +19,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvin&layout=compact&theme=dark" alt=marvin />
+
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marvin&theme=dark" alt="marvin" /></p>
