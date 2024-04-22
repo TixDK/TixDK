@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **Pet System**
-- 🌱 I’m currently learning **SCL (Siemens PLC programming)**
+- 🌱 I’m currently learning **C#**
 - 📫 How to reach me **marvin.kytner@gmail.com**
 
 <div> <a href="https://github.com/tixdk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
