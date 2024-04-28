@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 
 
-- 🔭 I’m currently working on **Pet System**
+- 🔭 I’m currently working on **Trading System**
 - 🌱 I’m currently learning **C#**
 - 📫 How to reach me **marvin.kytner@gmail.com**
 
