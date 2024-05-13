@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **Trading System**
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me **marvin.kytner@gmail.com**
 
 <div> <a href="https://github.com/tixdk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
