@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 
 
-- 🔭 I’m currently working on **Trading System**
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **OCR System RasPI**
+- 🌱 I’m currently learning **Life**
 - 📫 How to reach me **marvin.kytner@gmail.com**
 
 <div> <a href="https://github.com/tixdk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
