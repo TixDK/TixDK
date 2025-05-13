@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 
 
-- 🔭 I’m currently working on **OCR System RasPI**
+- 🔭 I’m currently working on **[OCR System RasPI](https://homefolio.dk/)**
 - 🌱 I’m currently learning **Life**
 - 📫 How to reach me **marvin.kytner@gmail.com**
 
